@@ -117,23 +117,18 @@ Customer Data → Preprocessing → Feature Engineering → Model Training → P
 ## 📸 Project Screenshots
 
 ### 🔹 App Interface
-
-![app ui](images/app_ui.png)
+![App UI](images/app_ui.png)
 
 ### 🔹 Prediction Output
-
-![prediction](images/prediction.png)
+![Prediction](images/prediction.png)
 
 ### 🔹 Feature Importance
-
 ![Feature Importance](images/feature_importance.png)
 
 ### 🔹 Confusion Matrix
-
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### 🔹 ROC Curve
-
 ![ROC Curve](images/roc_curve.png)
 
 ---
