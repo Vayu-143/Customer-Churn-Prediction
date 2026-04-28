@@ -118,11 +118,11 @@ Customer Data → Preprocessing → Feature Engineering → Model Training → P
 
 ### 🔹 App Interface
 
-![App UI](images/app_ui.png)
+![app ui](images/app_ui.png)
 
 ### 🔹 Prediction Output
 
-![Prediction](images/prediction.png)
+![prediction](images/prediction.png)
 
 ### 🔹 Feature Importance
 
